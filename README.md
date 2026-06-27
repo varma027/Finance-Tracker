@@ -109,5 +109,5 @@ pnpm dev
 
 ## 🙌 Author
 **Nagendra Varma**  
-- 📧 Email: saivarma2747@gmail.com 
+- 📧 Email: nagendravarma016@gmail.com 
 - 🔗 LinkedIn: https://linkedin.com/in/nagendravarma7
